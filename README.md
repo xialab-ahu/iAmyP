@@ -41,7 +41,7 @@ The framework of the ETFC method for MFTP prediction is described as follows:
 
   Python：
   - `Python` >= 3.6
-  Our code runs in the following corresponding versions of the python library, please make sure your environment is compatible with our version: <br />
+  - Our code runs in the following corresponding versions of the python library, please make sure your environment is compatible with our version: <br />
   `torch==2.0.1+cu118`<br />
   `pandas==2.2.2`<br />
   `numpy ==1.26.4`<br />
