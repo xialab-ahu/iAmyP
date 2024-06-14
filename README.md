@@ -51,6 +51,7 @@ The framework of the ETFC method for MFTP prediction is described as follows:
 ## Feature Selection
 After feature extraction, use the following command in the project directory to perform feature selection:
 ```shell
+cd ./iAmyP/model/
 python feature_filter.py
 ```
 
