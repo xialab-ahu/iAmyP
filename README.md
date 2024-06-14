@@ -45,7 +45,7 @@ The framework of the ETFC method for MFTP prediction is described as follows:
 - Download `iAmyP`to your computer
 
   ```bash
-  git clone https://github.com/Caijinling1/iAmyP.git
+  git clone https://github.com/xialab-ahu/iAmyP.git
   ```
 
 ## Feature Selection
@@ -57,6 +57,7 @@ python feature_filter.py
 ## Training and test iAmyP model
 In a run-time environment, in a project directory, train and test the model using the following commands:
 ```shell
+cd ./iAmyP/model/
 python main.py
 ```
 
